@@ -39,7 +39,11 @@ the most accident-prone roads are belt parkway , followed by broadway
 key insight :
 
 1- accidentsare higher in the evening (140k) compared to the morning(90)
+
 2- accidents in 2023 dropped significantly to less than a quarter compared to 2021 and 2022
+
 3- are the high accident rates in brooklyn and queens due to poor regulations or other factors ??
+
 4- in the high rate of accidents involving  passenger vehicles a coincidence or due to other reasons??
+
 5- are the top accident-prone streets due to poor road management or other causes ??
