@@ -22,16 +22,16 @@ the data contains 51291 rows and 21 columns
 
                                                          Dashboard
                                                          
-<img src="Dashboard" width="900">
+<img src="Dashboard.png" width="900">
 
-<img src="chart1" width="500">
+<img src="chart1.png" width="500">
 
 brooklyn and queens have the highest number of accidents
 
-<img src="chart2" width="500">
+<img src="chart2.png" width="500">
 
 passenger vehicles are involved in the majority of accidents
 
-<img src="chart2" width="500">
+<img src="chart2.png" width="500">
 
 the most accident-prone roads are belt parkway , followed by broadway
