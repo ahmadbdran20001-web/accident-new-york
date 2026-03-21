@@ -1,5 +1,5 @@
 # accident-new-york_data_analysis
-data analysis project using Power Bi to explore market sales 
+data analysis project using Power Bi to explore accident new york
 ## Data source :
 from kaggel 
 ## Tools used :
