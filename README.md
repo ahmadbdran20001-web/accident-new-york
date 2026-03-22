@@ -7,7 +7,7 @@ Power Bi
 ## Project Question : 
 Which location , times and conditions are associated with the highest number of accidentsin new york city ??
 ## Explore data :
-the data contains 51291 rows and 21 columns 
+the data contains 238422 rows and 19 columns 
 ## Clean data :
 1- unimportant columns were removed from the analysis 
 
